@@ -1,1 +1,1 @@
-This is a test *Bold*
+This is a test **Bold**
