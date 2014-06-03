@@ -20,3 +20,5 @@ You can link to us using text links or banners. Once you have selected a product
 We want to work closely with our Affiliates so once you’re all signed up join us to discuss tips and tricks to help you make more money and stay up to date on the latest promotions by following our Twitter and Facebook updates.
 
 Thanks so much for supporting StudioPress and feel free to contact us should you have any questions.
+
+Some more stuff
